@@ -78,9 +78,9 @@
     gap: 0.125rem;
   }
   .controls button {
-    width: 1.5rem;
+    width: 5.5rem;
     aspect-ratio: 1;
-    font-size: 0.9rem;
+    font-size: 1.9rem;
     color: white;
     border: none;
     background: #39657e;
