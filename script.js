@@ -1,11 +1,11 @@
 const febHolidays = [
-    "Dear ummul,",
-    "me tu jo noorulamin❤️",
+    "Dear my love ,",
+    "me tu jo or tuji jaaan ❤️",
     "first of all, i love you♥️",
-    "yaar ummul ",
+    "yaar ",
     "me tu ka blli love kr ta yaaar💖",
     "sagu sake nai yaar me 🥹",
-    "ho noorulamin tu je pttr pisawlo watey yar",
+    "ho tu je pttr pisawlo, pisawli watey yar",
     "tu ha bln me ...🥰",
     "tu ka moji future partner kr ta yaar,",
     "Ek de ha bl yaar tu 🥹🥹.",
@@ -23,13 +23,13 @@ const febHolidays = [
     "There's some hardships,",
     "but we overcame most of them",
     "and it made me realised how important you are in my life❤️",
-    "This for you,ummul ",
+    "This for you, ",
     "tu moji jaan ",
     "me tu jo jaan",
     "ami milun kr yaw moji mama ek natuu",
     "ani diyaw smma 2 rupi che laddu ",
     "🥹🥹🥹🥹🥹🥲",
-    "i love you ummul",
+    "i love you ",
     "I Love You So much❤️"
   ];
   const ulEl = document.querySelector("ul");
